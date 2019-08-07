@@ -1,0 +1,6 @@
+@import "./colorscheme.css";
+
+header {
+    background: var(--jrm-dark);
+    margin-bottom: 1.45rem;
+}
