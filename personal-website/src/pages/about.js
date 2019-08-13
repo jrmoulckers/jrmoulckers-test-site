@@ -13,7 +13,7 @@ const AboutPage = () => (
         <li>Eagle Scout</li>
         <li>Professional Development Officer for the Hispanic Association of Computer Scientists</li>
         <li>Aspiring leader and revolutionist in tech</li>
-        <li>Driven, focused, and turning a “NO” into New Opportunities</li>
+        <li>Driven, focused, and taking every opportunity to gain experience, exposure, and understanding</li>
         <p>My vision includes an autonomous and connected world of tomorrow, with opportunity for people of any background to find their place in tech. Will you join me?</p>
             Please feel free to contact me if you wish to discuss more!
             I am a Computer Science student at the University of Texas at Austin, and I expect to graduate in the Spring of 2022 with a Bachelors of Science in Computer Science and a minor in Business. 
